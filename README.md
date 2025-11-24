@@ -1,4 +1,3 @@
-
  Online Banking System (C Programming)
 
   Student Information
@@ -32,7 +31,3 @@ Balances are displayed in Zambian Kwacha (K)7 and data is stored persistently us
 4. Compile:
    bash
    gcc online_banking_2025013921.c -o bank
-=======
-# C-Basic-day1
-School assignment
->>>>>>> 433cdde2092550d760d8839c028da232f9e359bc
